@@ -59,4 +59,5 @@
 - Adding a Branch: git checkout -b <branch_name>
 - Changing branches: git checkout <branch_name>
 - Merging a branch: git merge <branch_name> (merge current branch into <branch_name>)
-- Removing a branch
+- Removing a branch: best not to delete branches, however:
+  command: git branch -d <branch_name>
