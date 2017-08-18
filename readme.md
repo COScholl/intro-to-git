@@ -30,9 +30,10 @@
 - adds all files and folders from current dir
 
 # Removing files
-- git reset HEAD <file>: to unstage from staging area (files added)
+- git reset HEAD <file>: to unstage from staging area (unstage from files added)
 
 # Ignoring files
-
+- create .gitignore file and add file2.txt to the doc.
+- git status no longer sees file added to .gitignore
 
 
