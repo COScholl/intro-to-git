@@ -21,5 +21,15 @@
 - Check status again
 - Commit files to repository
 
+# Add multiple files of a certain type
+
+# Add all files in a dir (including hidden)
+- command: git add -Add
+- adds all files and folders from current dir
+
+# Removing files
+
+# Ignoring files
+
 
 
