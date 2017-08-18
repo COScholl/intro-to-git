@@ -36,4 +36,27 @@
 - create .gitignore file and add file2.txt to the doc.
 - git status no longer sees file added to .gitignore
 
+# practice exercises 2
+- create new dir (git_section_3)
+- change dir to git_section_3
+- git init
+- create 3 new files using touch: file1.txt, file2.html, file3.js
+- create new dir called random_files
+- move .txt and .js to random_files dir
+- git status
+- remove .js file from staging area
+- create 3 new files in random_files dir (file4.css, file5.css, file6.js)
+- git status
+- add all .js to staging area
+- cd .. and mkdir secret_stuff
+- in secret_stuff, touch file1.yml and file2.js
+- create .gitignore to ignore secret_stuff
+- git status
+- add .gitignore to staging area- commit changes
 
+# Git branches
+- Listing all branches: git branch
+- Adding a Branch: git checkout -b <branch_name>
+- Changing branches: git checkout <branch_name>
+- Merging a branch: git merge <branch_name> (merge current branch into <branch_name>)
+- Removing a branch
