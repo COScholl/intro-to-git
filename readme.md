@@ -22,12 +22,15 @@
 - Commit files to repository
 
 # Add multiple files of a certain type
+- command git add *.<filetype>
+- adds files with same filetype (.html, .txt, .css, etc)
 
 # Add all files in a dir (including hidden)
 - command: git add -Add
 - adds all files and folders from current dir
 
 # Removing files
+- git reset HEAD <file>: to unstage from staging area (files added)
 
 # Ignoring files
 
