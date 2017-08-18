@@ -11,5 +11,15 @@
 - command git commit: creates key and logs changes with message
 - command git log: to see the history of commits
 
+# Practice exercises
+- Create new dir
+- Change dirs into project folder
+- Init a git repository to begin tracking project
+- Create files for project (index.html, style.css)
+- Check status of repository
+- Add the files to staging area
+- Check status again
+- Commit files to repository
+
 
 
